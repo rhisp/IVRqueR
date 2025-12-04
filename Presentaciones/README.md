@@ -14,3 +14,4 @@ Si tu presentación está on-line (por ejemplo, en GitHub pages, Google Slides, 
 
 - [RLCS: Explainable AI with a lesser-known ML algorithm — Nicolas Leconte Demarsy.](https://kaizen-r.github.io/others/RLCS_documentation_15.html#/title-slide) 
 - [Evaluación cuantitativa de la política medio ambiental en el grado de economía, con R- Kamal Romero](https://kamecon50.quarto.pub/jde-2025/)
+- [airqualityES: Un Paquete de R para Acceder a Datos de Contaminación del Aire en España — Jose V. Die Ramón & José R. Caro-Barrera](https://jrcarob.github.io/RValencia/RValencia.html#1)
